@@ -1,9 +1,10 @@
 {
 	"permissions": {
 		"allow": [
+			"Bash(bun add *)",
 			"Bash(bunx cross-env *)",
-			"Bash(cat /home/vix/Code/Javascript/discord-birthday-bot/package.json)",
-			"Read(//home/vix/Code/Javascript/discord-birthday-bot/**)"
+			"mcp__context7__query-docs",
+			"mcp__context7__resolve-library-id"
 		]
 	}
 }
