@@ -1,0 +1,9 @@
+{
+	"permissions": {
+		"allow": [
+			"Bash(bunx cross-env *)",
+			"Bash(cat /home/vix/Code/Javascript/discord-birthday-bot/package.json)",
+			"Read(//home/vix/Code/Javascript/discord-birthday-bot/**)"
+		]
+	}
+}
