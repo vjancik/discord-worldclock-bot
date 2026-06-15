@@ -1,6 +1,6 @@
 # Discord World Clock Bot
 
-A self-hosted Discord bot for displaying and converting times across timezones. One slash command, zero database — purely stateless.
+A Discord app for displaying and converting times across timezones. One slash command, stateless.
 
 ## Features
 
