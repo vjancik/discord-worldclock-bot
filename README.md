@@ -36,8 +36,7 @@ A Discord app for displaying and converting times across timezones. One slash co
 
 Use the **OAuth2 → URL Generator** in the Developer Portal. Select the following scopes and permissions:
 
-- **Scopes:** `bot`, `applications.commands`
-- **Bot permissions:** `Send Messages`
+- **Scopes:** `applications.commands`
 
 Copy and open the generated URL to invite the bot to your server.
 
